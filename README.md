@@ -31,7 +31,8 @@ Generic-web-template
     └───lib
             jquery-ui.min.css
             jquery.mobile-1.4.5.min.css
-            qunit-1.18.0.css```
+            qunit-1.18.0.css
+```
 
 
 ## Libraries included
