@@ -3,7 +3,7 @@ A template for quick legacy web development.
 
 ## Directory tree
 
-http://puu.sh/h1gbE/8df5e10154.png
+![](http://puu.sh/h1gbE/8df5e10154.png)
 
 
 ## Libraries included
