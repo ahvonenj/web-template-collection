@@ -3,7 +3,8 @@ A template for quick legacy web development.
 
 ## Directory tree
 
-```Generic-web-template
+```
+Generic-web-template
 │   index.htm
 │
 ├───resource
