@@ -37,6 +37,7 @@ Generic-web-template
             jquery-ui.min.css
             jquery.mobile-1.4.5.min.css
             qunit-1.18.0.css
+            normalize.css
 ```
 
 
@@ -59,3 +60,4 @@ Note: All libraries can be easily commented out when not needed
 
 * chance.js
 * tinycolor.js
+* normalize.css
