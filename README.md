@@ -3,6 +3,8 @@ A template for quick legacy web development.
 
 ## Directory tree
 
+![](http://puu.sh/h1eRR/64b5af96d0.png)
+
 **1.0** http://pastebin.com/zGixmdpj
 
 
