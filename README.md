@@ -1,6 +1,11 @@
 # Generic web template
 A template for quick legacy web development.
 
+**Benefits**
+
+* Easy to download or fork to start a project
+* Can be branched to make templates for specific needs i.e. game development
+
 ## Directory tree
 
 ```
