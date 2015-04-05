@@ -70,3 +70,27 @@ There are 3 main branches as of 5.4.2015. The brances are:
 * master / normal website branch
 * three.js branch for 3D games
 * pixi.js branch for 2D games
+
+All the "game" branches include a initialization script in `script/index.js` which creates the canvas as well as possible renderers and stages.
+
+### master
+
+Master branch includes all the libraries mentioned in the libraries section and that is about it. This branch is meant for normal web development without canvases.
+
+### three.js
+
+Three.js branch includes all the libraries mentioned in the libraries section plus the following libraries:
+
+* three.js
+* threex.keyboardstate.js
+* threex.loop.js
+* threex.oimo.js
+* threex.solidwireframe.js
+* victor.js
+
+### pixi.js
+
+Pixi.js branch includes all the libraries mentioned in the libraries section plus the following libraries:
+
+* pixi.js
+* victor.js
