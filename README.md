@@ -81,7 +81,7 @@ Master branch includes all the libraries mentioned in the libraries section and 
 
 Three.js branch includes all the libraries mentioned in the libraries section plus the following libraries:
 
-* [three.js](http://threejs.org/)
+* [three.js r71](http://threejs.org/)
 * [threex.keyboardstate.js](http://www.threejsgames.com/extensions/)
 * [threex.loop.js](http://www.threejsgames.com/extensions/)
 * [threex.oimo.js](http://www.threejsgames.com/extensions/)
@@ -92,5 +92,5 @@ Three.js branch includes all the libraries mentioned in the libraries section pl
 
 Pixi.js branch includes all the libraries mentioned in the libraries section plus the following libraries:
 
-* [pixi.js](http://www.pixijs.com/)
+* [pixi.js 2.2.8](http://www.pixijs.com/)
 * [victor.js](http://victorjs.org/)
