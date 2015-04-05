@@ -61,3 +61,12 @@ Note: All libraries can be easily commented out when not needed
 * chance.js
 * tinycolor.js
 * normalize.css
+
+
+## Branches
+
+There are 3 main branches as of 5.4.2015. The brances are:
+
+* **master / normal website branch**
+* **three.js branch for 3D games**
+* **pixi.js branch for 2D games**
