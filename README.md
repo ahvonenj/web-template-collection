@@ -1,5 +1,8 @@
 # Generic web template
-A template for quick legacy web development.
+
+A template for quick legacy web development. This thing is not necessarily meant for actual production development, but as a quickstart-template for quick legacy web projects. If you are tired of creating the same directory tree with the same libraries and base files, then this template is for you.
+
+I personally create a lot of fiddles and mini-projects to try something new or to experiment with something. These projects are usually very similar, so I decided to make a template that I can easily update and download.
 
 **Benefits**
 
