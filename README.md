@@ -12,12 +12,20 @@ A template for quick legacy web development.
 Generic-web-template
 │   index.htm
 │
+├───page
+│
 ├───resource
+│   │
 │   ├───doc
+│   │
 │   ├───file
+│   │
 │   ├───font
+│   │
 │   ├───img
+│   │
 │   └───svg
+│
 ├───script
 │   │   index.js
 │   │
@@ -36,8 +44,8 @@ Generic-web-template
     └───lib
             jquery-ui.min.css
             jquery.mobile-1.4.5.min.css
-            qunit-1.18.0.css
             normalize.css
+            qunit-1.18.0.css
 ```
 
 
