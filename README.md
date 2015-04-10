@@ -76,13 +76,14 @@ Note: All libraries can be easily commented out when not needed
 
 ## Branches
 
-There are 3 main branches as of 5.4.2015. The brances are:
+There are 4 main branches as of 10.4.2015. The brances are:
 
 * master / normal website branch
 * three.js branch for 3D games
 * pixi.js branch for 2D games
+* matter.js branch for 2D games that need a physics engine
 
-All the "game" branches include a initialization script in `script/index.js` which creates the canvas as well as possible renderers and stages.
+All the "game" branches include a initialization script in `script/index.js` which creates the canvas as well as possible renderers, stages, etc.
 
 ### master
 
@@ -105,3 +106,11 @@ Pixi.js branch includes all the libraries mentioned in the libraries section plu
 
 * [pixi.js 2.2.8](http://www.pixijs.com/)
 * [victor.js](http://victorjs.org/)
+
+### matter.js
+
+matter.js branch includes all the libraries mentioned in the libraries section plus the following libraries:
+
+* [pixi.js 2.2.8](http://www.pixijs.com/)
+* [victor.js](http://victorjs.org/)
+* [matter.js 0.8.0](http://brm.io/matter-js/)
