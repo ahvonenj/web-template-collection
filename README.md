@@ -129,7 +129,7 @@ Note: Pixi.js renderer is not used by matter.js by default. You must assign Pixi
 
 ### Google Chrome file:/// issue
 
-In order to be able to run these templates locally with Google Chrome, without a web server or a development server bundle such as xampp, you must launch Chrome with --allow-file-access-from-files handle.
+In order to be able to run these templates locally with Google Chrome, without a web server or a development server bundle such as xampp, you must launch Chrome with --allow-file-access-from-files handle. This is because of some security settings of Google Chrome. To be safe, remember not to launch Google Chrome from the shortcut you will create when surfing the web normally.
 
 To do this, create a shortcut of `chrome.exe`, right-click the shortcut and select properties and add `--allow-file-access-from-files` at the end of the target field, after the closing quotation mark. chrome.exe's default location is `C:\Program Files (x86)\Google\Chrome\Application\chrome.exe`.
 
