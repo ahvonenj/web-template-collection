@@ -66,10 +66,10 @@ Note: All libraries can be easily commented out when not needed
 
 ### jquery
 
-* [jquery 2.1.3 - The jquery lib](http://jquery.com/)
-* [jquery-ui 1.11.4 - jquery-UI lib](http://jqueryui.com/)
-* [jquery-mobile 1.4.5 - jquery-mobile lib](http://jquerymobile.com/)
-* [qunit 1.18.0 - qunit lib](https://qunitjs.com/)
+* [jquery 2.1.3 - The jquery library](http://jquery.com/)
+* [jquery-ui 1.11.4 - jquery-UI library](http://jqueryui.com/)
+* [jquery-mobile 1.4.5 - jquery-mobile library](http://jquerymobile.com/)
+* [qunit 1.18.0 - qunit library](https://qunitjs.com/)
 
 ### jquery plugins
 
