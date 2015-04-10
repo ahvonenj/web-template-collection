@@ -136,3 +136,13 @@ To do this, create a shortcut of `chrome.exe`, right-click the shortcut and sele
 Additional guide here: http://www.chrome-allow-file-access-from-file.com/
 
 Another option is to use [LocalLinks extension](https://chrome.google.com/webstore/detail/locallinks/jllpkdkcdjndhggodimiphkghogcpida)
+
+### Having issues with some of the libraries?
+
+These issues most likely relate to the libraries themselves and thus I cannot help with that. 
+
+### Templates not using the newest versions of the libraries
+
+I will update the templates with the newest version if the libraries, if that seems like a necessary thing to do. You can always fork or download this repository and do that by yourself if you want.
+
+
