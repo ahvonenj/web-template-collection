@@ -66,20 +66,20 @@ Note: All libraries can be easily commented out when not needed
 
 ### jquery
 
-* [jquery 2.1.3](http://jquery.com/)
-* [jquery-ui 1.11.4](http://jqueryui.com/)
-* [jquery-mobile 1.4.5](http://jquerymobile.com/)
-* [qunit 1.18.0](https://qunitjs.com/)
+* [jquery 2.1.3 - The jquery lib](http://jquery.com/)
+* [jquery-ui 1.11.4 - jquery-UI lib](http://jqueryui.com/)
+* [jquery-mobile 1.4.5 - jquery-mobile lib](http://jquerymobile.com/)
+* [qunit 1.18.0 - qunit lib](https://qunitjs.com/)
 
 ### jquery plugins
 
-* [jquery-transit 0.9.12](http://ricostacruz.com/jquery.transit/)
+* [jquery-transit 0.9.12 - jquery-transit plugin](http://ricostacruz.com/jquery.transit/)
 
 ### other
 
-* [chance.js 0.7.3](http://chancejs.com/#)
-* [tinycolor.js 1.1.2](https://github.com/bgrins/TinyColor)
-* [normalize.css 3.0.2](http://necolas.github.io/normalize.css/)
+* [chance.js 0.7.3 - randomization library](http://chancejs.com/#)
+* [tinycolor.js 1.1.2 - color manipulation library](https://github.com/bgrins/TinyColor)
+* [normalize.css 3.0.2 - css normalizator](http://necolas.github.io/normalize.css/)
 
 
 ## Branches
@@ -101,24 +101,24 @@ Master branch includes all the libraries mentioned in the libraries section and 
 
 Three.js branch includes all the libraries mentioned in the libraries section plus the following libraries:
 
-* [three.js r71](http://threejs.org/)
-* [threex.keyboardstate.js](http://www.threejsgames.com/extensions/)
-* [threex.loop.js](http://www.threejsgames.com/extensions/)
-* [threex.oimo.js](http://www.threejsgames.com/extensions/)
-* [threex.solidwireframe.js](http://www.threejsgames.com/extensions/)
-* [victor.js](http://victorjs.org/)
+* [three.js r71 - 3D graphics library](http://threejs.org/)
+* [threex.keyboardstate.js - keyboard event plugin for three.js](http://www.threejsgames.com/extensions/)
+* [threex.loop.js - render / update loop plugin for three.js](http://www.threejsgames.com/extensions/)
+* [threex.oimo.js - physics plugin for three.js](http://www.threejsgames.com/extensions/)
+* [threex.solidwireframe.js - object wireframe plugin for three.js](http://www.threejsgames.com/extensions/)
+* [victor.js - vector calculation library](http://victorjs.org/)
 
 ### pixi.js
 
 Pixi.js branch includes all the libraries mentioned in the libraries section plus the following libraries:
 
-* [pixi.js 2.2.8](http://www.pixijs.com/)
-* [victor.js](http://victorjs.org/)
+* [pixi.js 2.2.8 - 2D graphics library](http://www.pixijs.com/)
+* [victor.js - vector calculation library](http://victorjs.org/)
 
 ### matter.js
 
 matter.js branch includes all the libraries mentioned in the libraries section plus the following libraries:
 
-* [pixi.js 2.2.8](http://www.pixijs.com/)
-* [victor.js](http://victorjs.org/)
+* [pixi.js 2.2.8 - 2D graphics library](http://www.pixijs.com/)
+* [victor.js - vector calculation library](http://victorjs.org/)
 * [matter.js 0.8.0](http://brm.io/matter-js/)
