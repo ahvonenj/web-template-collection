@@ -119,6 +119,8 @@ Pixi.js brance / template includes all the libraries mentioned in the libraries 
 
 matter.js brance / template includes all the libraries mentioned in the libraries section plus the following libraries:
 
-* [pixi.js 2.2.8 - 2D graphics library](http://www.pixijs.com/) Note: Pixi.js renderer is not used by matter.js by default. You must assign Pixi.js as matter.js' renderer by yourself. Pixi.js is only included, but not assigned / used.
+Note: Pixi.js renderer is not used by matter.js by default. You must assign Pixi.js as matter.js' renderer by yourself. Pixi.js is only included, but not assigned / used.
+
+* [pixi.js 2.2.8 - 2D graphics library](http://www.pixijs.com/) 
 * [victor.js - vector calculation library](http://victorjs.org/)
 * [matter.js 0.8.0](http://brm.io/matter-js/)
