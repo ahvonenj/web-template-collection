@@ -10,12 +10,14 @@ I personally create a lot of fiddles and mini-projects to try something new or t
 * Can be branched to make even more templates for specific needs i.e. game development.
 * Can be forked for even more customization.
 * Changes to templates can be merged to existing projects pretty easily as the base file and folder structure is always the same.
+* Can be quickly forked (and rebased) to create a new repository out of a template for new projects.
 
 **Downsides**
 
 * Every project has its own lib files, which is kind of unnecessary. Then again this makes a single project more portable and easier to work with... plus javascript libs do not take that much actual space anyway.
 * Not up with current web standards and / or best practices - you should probably be using some kind of package manager instead.
 * If you want some change to happen for all branches / templates, you must update each branch / template individually.
+* Libraries have to be kept up to date manually.
 
 ## Directory tree (base / master)
 
