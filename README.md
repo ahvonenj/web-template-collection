@@ -6,8 +6,16 @@ I personally create a lot of fiddles and mini-projects to try something new or t
 
 **Benefits**
 
-* Easy to download or fork to start a project
-* Can be branched to make templates for specific needs i.e. game development
+* A simple .zip download when you start a new project. Everything is included and ready right away.
+* Can be branched to make templates for specific needs i.e. game development.
+* Can be forked for even more customization.
+* Changes to template can be merged to existing projects pretty easily as the base file and folder structure is always the same.
+
+**Downsides**
+
+* Every project has its own lib files, which is kind of unnecessary. Then again this makes a single project more portable and easier to work with... plus javascript libs do not take that much actual space anyway.
+* Not up with current web standards and / or best practices - you should probably be using some kind of package manager instead.
+* If you want some change to happen for all branches, you must update each branch individually.
 
 ## Directory tree (base / master)
 
