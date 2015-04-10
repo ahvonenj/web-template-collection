@@ -124,3 +124,15 @@ Note: Pixi.js renderer is not used by matter.js by default. You must assign Pixi
 * [pixi.js 2.2.8 - 2D graphics library](http://www.pixijs.com/) 
 * [victor.js - vector calculation library](http://victorjs.org/)
 * [matter.js 0.8.0 - 2D physics library](http://brm.io/matter-js/)
+
+## Notes
+
+### Google Chrome file:/// issue
+
+In order to be able to run these templates locally with Google Chrome, without a web server or a development server bundle such as xampp, you must launch Chrome with --allow-file-access-from-files handle.
+
+To do this, create a shortcut of `chrome.exe`, right-click the shortcut and select properties and add `--allow-file-access-from-files` at the end of the target field, after the closing quotation mark. chrome.exe's default location is `C:\Program Files (x86)\Google\Chrome\Application\chrome.exe`.
+
+Additional guide here: http://www.chrome-allow-file-access-from-file.com/
+
+Another option is to use [LocalLinks extension](https://chrome.google.com/webstore/detail/locallinks/jllpkdkcdjndhggodimiphkghogcpida)
