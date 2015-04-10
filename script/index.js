@@ -82,7 +82,7 @@ $(document).ready(function()
 	{
 		var allBodies = Composite.allBodies(engine.world);
 		
-		console.log(allBodies[0]);
+		//console.log(allBodies[0]);
 		
 		for(var body in allBodies)
 		{
