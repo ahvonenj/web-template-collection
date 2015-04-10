@@ -123,4 +123,4 @@ Note: Pixi.js renderer is not used by matter.js by default. You must assign Pixi
 
 * [pixi.js 2.2.8 - 2D graphics library](http://www.pixijs.com/) 
 * [victor.js - vector calculation library](http://victorjs.org/)
-* [matter.js 0.8.0](http://brm.io/matter-js/)
+* [matter.js 0.8.0 - 2D physics library](http://brm.io/matter-js/)
