@@ -7,8 +7,8 @@ $(document).ready(function()
 {
 	console.log('%c Initialized! ', 'background: #222; color: #bada55');
 	
-    stage = new PIXI.Stage(0x66FF99);
-    renderer = PIXI.autoDetectRenderer(_WIDTH, _HEIGHT);
+    stage = new PIXI.Container();
+    renderer = PIXI.autoDetectRenderer(_WIDTH, _HEIGHT, { backgroundColor: 0x66FF99 });
     $('#wrapper').append(renderer.view);
  
 	$('canvas').css(
@@ -18,13 +18,8 @@ $(document).ready(function()
 	});
 
 	init();
-    
 	
-	
-	requestAnimFrame(animate);
- 
-    
-	
+	requestAnimationFrame(animate);
 });
 
 var debugbunnies = [];
@@ -47,7 +42,7 @@ function init()
 
 function animate() 
 {
-	requestAnimFrame(animate);
+	requestAnimationFrame(animate);
 
 	for(var bunny in debugbunnies)
 	{
